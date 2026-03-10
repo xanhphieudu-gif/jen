@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TrendBot AI",
+  "description": "Robot tìm kiếm xu hướng, phân tích từ khóa và lập kế hoạch nội dung tự động sử dụng Google Search và Gemini AI.",
+  "requestFramePermissions": []
+}
